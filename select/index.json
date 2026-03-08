@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "心海",
+  "base_artist": "Eve",
+  "createdAt": "2026-03-08T04:13:14.464840Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "夜未央.星海.心海",
+      "artist": "黃鶯鶯",
+      "has_synced": false,
+      "path": "select/01_夜未央.星海.心海_黃鶯鶯.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心海",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/02_心海_Eve.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心海",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_心海_Eve.txt"
+    }
+  ]
+}
